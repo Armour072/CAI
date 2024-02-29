@@ -1,0 +1,22 @@
+﻿<%@ page contentType="text/html;charset=utf-8" %>
+<CENTER><Font size=5><P>会员管理系统</Font></CENTER>
+<table  cellSpacing="1" cellPadding="1" width="600" align="center" border="0" >
+   <tr valign="bottom">
+   <td align="center"><A href="Register.jsp"><b>会员注册</b></A></td>
+   <td align="center"><A href="login.jsp"><b>会员登录</b> </A></td>
+   <td align="center"><A href="upload.jsp"><b>上传图片</b> </A></td>
+   <td align="center"><A href="choiceLookType.jsp"><b>浏览会员</b></A></td>
+   </tr>
+   <tr valign="bottom">
+  <td align="center"><a href="showProducts.jsp"><b>浏览商品</b></a></td>
+  <td align="center"><a href="emailbox.jsp"><b>查看留言箱</b></a></td>
+  <td align="center"><a href="sendMessage.jsp"><b>发送邮件</b></a></td>
+  <!-- <td align="center"><a href="index.jsp"><b>返回主页</b></a></td> -->
+    </tr>
+   <tr valign="bottom">
+   <td align="center"><A href="choiceModifyMess.jsp"><b>修改注册信息</b></A></td>
+   <td align="center"><A href="modifyPassword.jsp"><b>修改密码</b></A></td>
+   <td align="center"><A href="helpExitLogin"><b>退出登录</b></A></td>
+   <td align="center"><A href="index.jsp"><b>返回主页</b></A></td>
+  </tr>
+</table>
